@@ -1,54 +1,53 @@
 {
-  "backgroundType": "gradient",
-  "plainBackgroundMode": "daylight",
-  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
-  "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
-  "icons": [
-    {
-      "id": 0,
-      "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
-      "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
-      "style": "socialicons"
-    }
-  ],
-  "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
-  "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
-  "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm Computer Engineer from NUST CEME, Pakistan with 3+ years of experience in web development. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech. I'm passionate about teaching machines how to think",
-  "projectHeading": "Recent Projects",
-  "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
-  "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 4,
-  "showNavigationbar": true,
-  "showBlog": false
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "FirstName": "Lakshya",
+    "MiddleName": "",
+    "LastName": "Kumar",
+    "devDesc": "| Data Analyst | Business Intelligence Analyst | Masters Student | Machine Learning Enthusiast |",
+    "icons": [{
+            "id": 0,
+            "image": "fa-github",
+            "url": "https://github.com/kumarlakshya24",
+            "style": "socialicons"
+        },
+        {
+            "id": 1,
+            "image": "fa-facebook",
+            "url": "https://www.facebook.com/kumarlakshya24",
+            "style": "socialicons"
+        },
+        {
+            "id": 2,
+            "image": "fa-instagram",
+            "url": "https://www.instagram.com/luckyhere171717/",
+            "style": "socialicons"
+        },
+        {
+            "id": 3,
+            "image": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/kumarlakshya24/",
+            "style": "socialicons"
+        },
+        {
+            "id": 4,
+            "image": "fa-twitter",
+            "url": "https://www.twitter.com/xlucky17x/",
+            "style": "socialicons"
+        }
+    ],
+    "aboutHeading": "About Me",
+    "showInstaProfilePic": true,
+    "instaLink": "https://www.instagram.com/",
+    "instaUsername": "luckyhere171717",
+    "instaQuerry": "/?__a=1",
+    "aboutDescription": "I'm a Masters in Information Systems student at Northeastern University, Seattle. I am currently a Campus Health Ambassador in NEU, Seattle and seeking summer 2021 internships in the fields of Data Analysis, Machine Learning and BI Development. Thanks for checking my website, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/kumarlakshya24/",
+    "projectHeading": "Recent Projects",
+    "gitHubLink": "https://api.github.com/users/",
+    "gitHubUsername": "kumarlakshya24",
+    "gitHubQuerry": "/repos?sort=updated&direction=desc",
+    "projectsLength": 10,
+    "showNavigationbar": true,
+    "showBlog": false
 }

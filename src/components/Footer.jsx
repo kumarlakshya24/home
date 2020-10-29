@@ -13,15 +13,10 @@ const Footer = () => {
         href="https://github.com/hashirshoaeb"
         aria-label="My GitHub"
       >
-        Hashir Shoaib
+        Lakshya Kumar
       </a>{" "}
       using <i className="fab fa-react"></i>
       <p>
-        <small className="text-muted">
-          {" "}
-          Project code is open source. Feel free to fork and make your own
-          version.
-        </small>
       </p>
     </footer>
   );
